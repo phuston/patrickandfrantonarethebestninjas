@@ -1,12 +1,18 @@
-# mysuperdopeproject
+# patrickandfrantonarethebestninjas
 
 ## Created by [Patrick Huston](http://www.patrickhuston.com/) and [Franton Lin](frantonlin.com)
 
-#### What is mysuperdopeproject?
-This project is a collaboration between human and nature, exemplifying the harnessing of the raw power of the universe. 
+#### What is patrickandfrantonarethebestninjas?
+This project aims to demonstrate without a doubt why Patrick and Franton are the best ninjas. 
 
-#### How can I use mysuperdopeproject?
-mysuperdopeproject cannot be used. It is 100% nonfunctional.
+#### How can I use patrickandfrantonarethebestninjas?
+Come to office hours and git tutorials. Baked goods and cash are also accepted.
+
+#### Dependencies
+patrickandfrantonarethebestninjas depends heavily on the perception of students. A lot of research has been done looking into ways of monitoring and directly modifying how students perceive ninjas, and we have implemented this technology to the fullest extent. 
+
+#### How to contribute?
+To contribute to patrickandfrantonarethebestninjas, write a heart-felt love note and submit a PR. 
 
 #### License
 
