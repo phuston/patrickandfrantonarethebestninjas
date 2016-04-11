@@ -1,6 +1,7 @@
 ---
 title: Our Story
 layout: template
+link: index
 --- 
 
 # Our Story
