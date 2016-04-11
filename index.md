@@ -1,7 +1,6 @@
 ---
 title: Patrickandfrantonarethebestninjas
 layout: template
-link: story
 --- 
 
 # patrickandfrantonarethebestninjas
