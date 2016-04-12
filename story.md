@@ -1,7 +1,7 @@
 ---
 title: Our Story
 layout: template
-link: index
+filename: story
 --- 
 
 # Our Story

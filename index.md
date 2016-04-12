@@ -1,7 +1,7 @@
 ---
 title: Patrickandfrantonarethebestninjas
 layout: template
-link: story
+filename: index
 --- 
 
 # patrickandfrantonarethebestninjas

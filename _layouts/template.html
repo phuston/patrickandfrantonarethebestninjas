@@ -16,7 +16,9 @@
       <a href="https://github.com/phuston/patrickandfrantonarethebestninjas" class="btn">View on GitHub</a>
       <a href="https://github.com/phuston/patrickandfrantonarethebestninjas/zipball/master" class="btn">Download .zip</a>
       <a href="https://github.com/phuston/patrickandfrantonarethebestninjas/tarball/master" class="btn">Download .tar.gz</a>
-      <a href= {{ page.link }} class="btn">{{ page.link }}</a>
+      {% for page in site.pages %}
+        <a href= {{ page.filename }}>{{ page.title }}</a>
+      {% endfor %}
     </section>
 
     <section class="main-content">
