@@ -17,10 +17,10 @@ filename: howto
 8. Copy one navigation/button item (probably a `<a href="">` or similar tag)
 9. Insert this code at the top of the navigation/button item section:
 
-```
+    ```
 {% raw %}
 {% for page in site.pages %}
-    \<a href={{ page.filename }}>{{ page.title }}</a>
+    <a href={{ page.filename }}>{{ page.title }}</a>
 {% endfor %}
 {% endraw %}
 ```
