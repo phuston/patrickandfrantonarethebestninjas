@@ -12,7 +12,7 @@ filename: howto
 3. Fetch and checkout the gh-pages branch on your local repository
 4. Create a directory `_layouts` in the repository
 5. Rename `index.html` to `template.html` and move it into the `_layouts` directory
-6. Open `template.html` and replace the `<p>CONTENT</p>` placeholder with `{{ content }}` (this is [Jekyll](https://jekyllrb.com) syntax to grab the content from the MarkDown pages you will create)
+6. Open `template.html` and replace the `<p>CONTENT</p>` placeholder with '{{ content }}' (this is [Jekyll](https://jekyllrb.com) syntax to grab the content from the MarkDown pages you will create)
 7. Identify the navigation/button section of HTML
 8. Copy one navigation/button item (probably a `<a href="">` or similar tag)
 9. Insert this code at the top of the navigation/button item section:
