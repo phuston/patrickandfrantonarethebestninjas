@@ -1,7 +1,7 @@
 ---
 title: Index
 layout: template
-filename: index
+filename: index.md
 --- 
 
 # English Website.
