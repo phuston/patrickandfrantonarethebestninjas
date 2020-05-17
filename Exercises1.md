@@ -2,7 +2,7 @@
 title: Unit 7 [SB]
 layout: template
 filename: Exercises1
---- 
+---
 # Unit 7 - Let Us Entertain!
 ## Topic Vocabulary
 #### 1.**Getting Started** *Match the pictures below to the circus entertainment below. Which of these types of entertainment do you like to watch? What do you like or dislike about circuses?*
@@ -75,3 +75,4 @@ They teach the younger students different skills and so.
 
 2.*Read the article. Six sentences have been removed from it. Choose the correct sentence (A-G) that fits each gap (1-6), There is one extra sentence.
 
+eeeee this is a test
