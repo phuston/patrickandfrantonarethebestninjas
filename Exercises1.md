@@ -5,7 +5,7 @@ filename: Exercises1
 --- 
 # Unit 7 - Let Us Entertain!
 ## Topic Vocabulary
-1.**Getting Started** *Match the pictures below to the circus entertainment below. Which of these types of entertainment do you like to watch? What do you like or dislike about circuses?*
+#### 1.**Getting Started** *Match the pictures below to the circus entertainment below. Which of these types of entertainment do you like to watch? What do you like or dislike about circuses?*
 
 **Juggling**
 
@@ -18,14 +18,14 @@ They are fun to watch, but i'ts not the type of thing i like to see, it gives me
 Clowns are scary for both my sister and me.
 
 
-2.*What do performers say about their work? Match the sentences on the pcitures below. A sentence can match more than one picutre.*
+#### 2.*What do performers say about their work? Match the sentences on the pcitures below. A sentence can match more than one picutre.*
 
 + You must **concentrate** and focus on the balls so they dont fall. -> B
 + You need to be confident and sure of yourself. -> C
 + You need to be opatient and ot be in a hurry. -> B, C
 + It's not enough to have excellent skills and be very talented. You have to rely and trust on your partner. -> A
 
-3.*Answer the questions. Use the words in colour in your answers.*
+#### 3.*Answer the questions. Use the words in colour in your answers.*
 
  1. A concert is a type of live perfomance. What live perfomance have you been to?
 I've been to different live perfomances but none of them were concerts but plays.
@@ -42,7 +42,7 @@ Thse stage was a looking normal.
 TCMS (Tu Cara Me suena), the audience can judge at the end and give points to different performers.
 
 
-4.*Listen to oliver and Cathy talking about the circus. Decide if each sentence is correct or incorrect.*
+#### 4.*Listen to oliver and Cathy talking about the circus. Decide if each sentence is correct or incorrect.*
 
 1. Cathy saw the show from the second row.
 True.
@@ -56,8 +56,9 @@ True.
 False, she felt stressed.
 6. Cathy prefers watching a circus show to watching a play.
 False, she prefers the play.
+----
 ## Reading
-1.Read the first sentence of each paragraph of the article. Then answer the questions below:
+#### 1.Read the first sentence of each paragraph of the article. Then answer the questions below:
 1. Where is the city of Cali? Is it a good place of children to grow up?
 City of Cali is located in colombia, and it's a tough place to grow up.
 2. Where is circo para todos?
