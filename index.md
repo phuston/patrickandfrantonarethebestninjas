@@ -1,7 +1,7 @@
 ---
 title: Index
 layout: template
-filename: Index
+filename: index
 --- 
 
 # English Website.
